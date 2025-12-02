@@ -1,0 +1,10 @@
+P = player spawn
+B = Boulder
+b = brick
+e = edge
+D = door
+G = gem
+E = Enemy
+. = dirt
+' '= tom rute
+(^Mellomrom)
